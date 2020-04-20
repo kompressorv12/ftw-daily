@@ -227,7 +227,7 @@ const Footer = props => {
                     name="SearchPage"
                     to={{
                       search:
-                        '?address=Portland%2C%20Oregon%2C%20United%20States%20of%20America&bounds=45.858099013046%2C-122.441059986416%2C45.3794799927623%2C-122.929215816001,
+                        '?address=Portland%2C%20Oregon%2C%20United%20States%20of%20America&bounds=45.858099013046%2C-122.441059986416%2C45.3794799927623%2C-122.929215816001',
                     }}
                     className={css.link}
                   >
