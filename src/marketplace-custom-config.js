@@ -38,9 +38,9 @@ export const amenities = [
 ];
 
 export const categories = [
-  { key: 'smoke', label: 'Smoke' },
-  { key: 'electric', label: 'Electric' },
-  { key: 'wood', label: 'Wood' },
+  { key: 'property', label: 'Stationary Property' },
+  { key: 'human', label: 'On a human' },
+  { key: 'digital', label: 'Digital' },
   { key: 'other', label: 'Other' },
 ];
 
