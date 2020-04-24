@@ -12,7 +12,7 @@ export default [
     id: 'default-portland',
     predictionPlace: {
       address: 'Portland, OR',
-      bounds: new LatLngBounds(new LatLng(45.36143, 122.40582), new LatLng(45.434413, 122.41582)),
+      bounds: new LatLngBounds(new LatLng(45.36143, -122.40582), new LatLng(45.434413, -122.41582)),
     },
   },
   {
